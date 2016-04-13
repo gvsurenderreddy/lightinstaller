@@ -1,0 +1,7 @@
+installer on curses
+
+* parted
+
+* install os
+
+* post after installed
